@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,45:1f6feb,100:7c3aed&height=185&section=header&text=Mediroza%20Security%20Assessment&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Networkwalks%20B082%20%7C%20Week%204%20Capstone%20Project&descAlignY=55&descSize=17" alt="Mediroza Security Assessment">
 
 <p align="center">
   <strong>Black Box Web Application Penetration Test</strong><br>
