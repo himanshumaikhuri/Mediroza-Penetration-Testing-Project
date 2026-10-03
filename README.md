@@ -303,10 +303,10 @@ This project was produced as part of a controlled educational exercise by Networ
 
 ## 👤 Credits
 
-- **Author:** Alebiosu Oluwadamilare Samuel
+- **Author:** Himanshu Maikhuri
 - **Cybersecurity Mentor:** Waqas Karim, CCIE
 - **Organization:** Networkwalks
-- **Program:** B082 Cybersecurity Internship Week 4 Capstone Project
+- **Program:** B083 Cybersecurity Internship Week 4 Capstone Project
 
 ---
 
